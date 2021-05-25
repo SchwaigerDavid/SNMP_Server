@@ -1,0 +1,27 @@
+#backgroundpane, .button {
+    -fx-background-color: #000;
+    -fx-text-fill: #000;
+}
+
+.button {
+    -fx-text-fill: #000;
+    -fx-background-color: #000;
+    -fx-background-radius: 20px;
+}
+
+.text-area .content, #ipField {
+    -fx-background-color: #000;
+
+
+}
+.text-area {
+    -fx-text-fill: #000;
+    -fx-background-color: #000;
+}
+
+#ipField {
+    -fx-prompt-text-fill: #000;
+    -fx-background-radius: 20px;
+    -fx-text-fill: #000;
+
+}
